@@ -119,3 +119,31 @@ header {
     font-weight: normal;
     margin-bottom: 40px;
 }
+
+.grey-block .container{
+    background-color: #f9f9f9;
+}
+
+.grey-block-wrap{
+    background-color: #f9f9f9;
+    height: 155px;
+    text-align: center;
+    padding: 40px;
+}
+
+.grey-block h4 {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.grey-block p {
+    font-size: 18px;
+    font-weight: 300;
+    color: #999;
+    margin-top: 10px;
+}
+
+.metod-wrap {
+    background-color: yellow;
+    height: 521px;
+}
