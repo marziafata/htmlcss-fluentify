@@ -135,7 +135,7 @@ header {
 
 .title {
     font-size: 25px;
-    color: rgba(0, 0, 0, 0.7);
+    color: #4a4a4a;
 }
 
 .test {
@@ -207,4 +207,22 @@ header {
 .box2 {
     width: 650px;
     float: left;
+    text-align: left;
+    padding: 50px;
+}
+.content .title{
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #4a4a4a;
+}
+
+.box2 .content {
+    width: 600px;
+    height: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.content a {
+    color: lightblue;
 }
