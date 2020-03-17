@@ -146,13 +146,11 @@ header {
 
 .list-box-wrap {
     background-color: white;
-    height: 521px;
     padding: 8px;
+    border-bottom: 1px solid #999;
 }
 
 .list-box {
-    background-color: white;
-    height: 505px;
     width: 1300px;
     margin: auto;
 }
@@ -164,8 +162,6 @@ header {
 }
 
 .box {
-    background-color: white;
-    height: 465px;
     width: 433px;
     float: left;
     margin-top: 20px;
@@ -173,7 +169,6 @@ header {
 
 .mini-box {
     height: 232.2px;
-    background-color: white;
     text-align: center;
     position: relative;
     padding: 10px;
@@ -207,4 +202,9 @@ header {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.box2 {
+    width: 650px;
+    float: left;
 }
