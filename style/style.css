@@ -143,7 +143,28 @@ header {
     margin-top: 10px;
 }
 
-.metod-wrap {
+.list-box-wrap {
     background-color: yellow;
     height: 521px;
+    padding: 8px;
+}
+
+.list-box {
+    background-color: pink;
+    height: 505px;
+    width: 1300px;
+    margin: auto;
+}
+
+.box {
+    background-color: white;
+    height: 465px;
+    width: 433px;
+    float: left;
+    margin-top: 20px;
+}
+
+.mini-box {
+    height: 232.2px;
+    background-color: lightblue;
 }
